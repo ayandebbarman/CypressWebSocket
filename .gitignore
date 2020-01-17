@@ -1,0 +1,9 @@
+# Videos & Screenshots
+/results
+/cypress/videos
+/cypress/logs
+/cypress/screenshots
+/cypress/plugins/credentials.json
+/cypress/plugins/gmail_token.json
+/node_modules
+*.log
