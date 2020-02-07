@@ -6,4 +6,5 @@
 /cypress/plugins/credentials.json
 /cypress/plugins/gmail_token.json
 /node_modules
+/mochawesome-report
 *.log
