@@ -6,4 +6,7 @@
 /cypress/plugins/gmail_token.json
 /node_modules
 /mochawesome-report
+/cypress/results
+/mochawesome-report
+mochawesome.json
 *.log
